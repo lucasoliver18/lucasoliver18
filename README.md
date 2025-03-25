@@ -1,5 +1,8 @@
-### Hi there 👋
+### Meu nome é Lucas José Gomes Oliveira 👋
 
+### Eu faço Engenharia de Software na Unifil 💻
+
+### Moro em Londrina/Paraná 🚩
 <!--
 **lucasoliver18/lucasoliver18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
